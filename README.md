@@ -1,4 +1,4 @@
-<h1>Youtube Video Search</h1>
+<h1>Youtube Video Player</h1>
 
 A video player using Youtube API
 
